@@ -162,3 +162,14 @@ footer {
 footer h2 {
   color: tomato;
 }
+.section-fles {
+  display: flex;
+  margin-bottom: 100px;
+}
+.half-width {
+  width: 50%;
+  padding-left: 5%;
+}
+.half-width video {
+  width: 100%;
+}
