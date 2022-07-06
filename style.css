@@ -42,3 +42,11 @@ body {
   border-radius: 5px;
   border-color: tomato;
 }
+
+/* section no2 */
+.course {
+  width: 80%;
+  margin: auto;
+  text-align: center;
+  padding-top: 100px;
+}
