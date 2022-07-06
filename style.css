@@ -51,6 +51,8 @@ body {
 }
 .row2 {
   margin-top: 10%;
+  margin: 20px;
+
   display: flex;
   justify-content: space-between;
 }
@@ -63,6 +65,7 @@ body {
 .course-col2 {
   flex-basis: 31%;
   background: #fff3f3;
+  margin: 20px;
   border-radius: 10px;
   margin-bottom: 5%;
   padding: 20px 12px;
@@ -99,7 +102,7 @@ p {
   box-sizing: border-box;
 }
 .cgcolor {
-  background-color: aliceblue;
+  background-color: #4f9da61a;
 }
 .cgcolorr {
   background-color: rgb(250, 250, 191);
@@ -128,7 +131,7 @@ h3 {
   width: 80%;
   margin: auto;
   text-align: center;
-  padding-top: 100px;
+  padding-top: 10px;
   margin-left: 10%;
 }
 form {
