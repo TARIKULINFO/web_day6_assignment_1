@@ -97,6 +97,52 @@ h3 {
   font-weight: 600;
   margin: 10px 0;
 }
+.row3 p {
+  text-align: left;
+}
 .course-col {
   text-align: left;
+}
+/* section no 4 */
+.course4 {
+  width: 80%;
+  margin: auto;
+  text-align: center;
+  padding-top: 100px;
+}
+.course44 {
+  width: 80%;
+  margin: auto;
+  text-align: center;
+  padding-top: 100px;
+  margin-left: 10%;
+}
+form {
+  background-color: rgb(243, 230, 177);
+  width: 600px;
+  height: 55px;
+  align-items: center;
+  justify-content: center;
+  display: flex;
+}
+.email {
+  text-decoration: none;
+  background-color: white;
+  padding: 10px 40px;
+  color: black;
+  font-weight: 700;
+  border-radius: 5px;
+  border-color: black;
+}
+footer {
+  font-family: "Open Sans", sans-serif;
+  font-family: "Poppins", sans-serif;
+
+  text-align: center;
+  color: aliceblue;
+  background-color: black;
+  margin-top: 5%;
+}
+footer h2 {
+  color: tomato;
 }
