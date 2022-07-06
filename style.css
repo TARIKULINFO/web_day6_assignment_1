@@ -50,9 +50,15 @@ body {
   padding-top: 100px;
 }
 .row2 {
-  margin-top: 5%;
+  margin-top: 10%;
   display: flex;
   justify-content: space-between;
+}
+.cool {
+  color: gray;
+  margin-left: 20%;
+  text-align: center;
+  background-color: white;
 }
 .course-col2 {
   flex-basis: 31%;
@@ -92,6 +98,12 @@ p {
   padding: 20px 12px;
   box-sizing: border-box;
 }
+.cgcolor {
+  background-color: aliceblue;
+}
+.cgcolorr {
+  background-color: rgb(250, 250, 191);
+}
 h3 {
   text-align: left;
   font-weight: 600;
@@ -106,9 +118,11 @@ h3 {
 /* section no 4 */
 .course4 {
   width: 80%;
+  height: 15%;
   margin: auto;
   text-align: center;
   padding-top: 100px;
+  margin-bottom: 10px;
 }
 .course44 {
   width: 80%;
